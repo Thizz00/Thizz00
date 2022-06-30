@@ -11,7 +11,7 @@ but i am also familiar with the R studio development environment,\
 
 🧠 I am currently learning machine learning and image processing...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&layout=compact)](https://github.com/Thizz00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8)](https://github.com/Thizz00/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizz00&show_icons=true&theme=radical)
 
