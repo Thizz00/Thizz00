@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hi, i am a Mathematical Modeling Student. 🧮
+Hi, i am Jakub Kiełb and i am a  Mathematical Modeling Student. 🧮
 
 I am currently developing projects with gui in python,\
 but i am also familiar with the R studio development environment,\
@@ -12,7 +12,7 @@ but i am also familiar with the R studio development environment,\
 🧠 I am currently learning machine learning and image processing...
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizz00&show_icons=true&theme=radical)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jakubkielb.netlify.app)
