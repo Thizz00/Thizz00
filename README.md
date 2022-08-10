@@ -18,7 +18,7 @@ but i am also familiar with the R studio development environment,\
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8)](https://github.com/Thizz00/github-readme-stats)
 
-🛠  Tech Stack
+## 🛠  Tech Stack
 
 
 ## 🔗 Links
