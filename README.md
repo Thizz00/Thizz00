@@ -28,4 +28,4 @@ but i am also familiar with the R studio development environment,\
 
 ## Feedback
 
-If you have any feedback, please reach out to us at  jakubkielb7@gmail.com
+If you have any feedback, please reach out to me at  jakubkielb7@gmail.com
