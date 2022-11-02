@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kiełb</h1>
 <h3 align="center">I am a Mathematical Modeling Student. 👨‍💻</h3>
 
-- 🌱 I am currently creating **scripts to automate everyday processes using the Python**
+- 🌱 I am currently creating **scripts to automate everyday processes using the Python.**
 
-- 🤝 I am getting familiar with **Scikit learn,Tensorflow and keras libraries for building predictive models**
+- 🤝 I am getting familiar with **Scikit learn,Tensorflow and keras libraries for building predictive models.**
 
 - 🎓 I also have the ability to work in the **R studio environment**,in which I carried out regression and analysis of variance projects at the university.
 
