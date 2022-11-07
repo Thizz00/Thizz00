@@ -19,7 +19,7 @@
 </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Numpy" width="140" height="40"/> </a>
  
-<a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168073.png" alt="Numpy" width="140" height="40"/> </a>  
+<a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/07/numpy-logo-freelogovectors.net_.png" alt="Numpy" width="40" height="40"/> </a>  
   
 </p>
 
