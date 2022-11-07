@@ -24,7 +24,6 @@
  <img src="https://github.com/numpy/numpy/blob/master/branding/icons/primary/numpylogo.svg" alt="Numpy" width="40" height="40"/>
   </a>
 </p>
-</p>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jakubkielb.netlify.app)
