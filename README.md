@@ -12,7 +12,7 @@
 
 ![JakubKiełb GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizz00&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8theme=radical)](https://github.com/Thizz00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8&theme=radical)](https://github.com/Thizz00/github-readme-stats)
 
 ## ⚡ Languages and Tools:
 <p align="left"> 
