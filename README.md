@@ -21,7 +21,7 @@
  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
- <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" alt="Numpy" width="40" height="40"/>
+ <img src="https://github.com/numpy/numpy/blob/master/branding/icons/primary/numpylogo.svg" alt="Numpy" width="40" height="40"/>
   </a>
 </p>
 </p>
