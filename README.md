@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jakub Kiełb</h1>
-<h3 align="center">I am a mathematics graduate with a specialization in mathematical modeling. 👨‍💻</h3>
+<h3 align="center">I'm a mathematics graduate with a specialization in mathematical modeling. 👨‍💻</h3>
 
 - 🌱 I am currently creating **scripts to automate everyday processes using the Python.**
 
