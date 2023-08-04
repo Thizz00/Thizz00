@@ -10,7 +10,6 @@
 
 - 🎓 I also have the ability to work in the **R studio environment**, in which I carried out regression and analysis of variance projects at the university.
 
-![JakubKiełb GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizz00&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8&theme=radical)](https://github.com/Thizz00/github-readme-stats)
 
