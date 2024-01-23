@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kiełb</h1>
 <h3 align="center">I'm a mathematics graduate with a specialization in mathematical modeling. 👨‍💻</h3>
 
-- 🤖 Commercially I deal with **creating RPA scripts for ERP systems**.
+<h4 align="center"> 🤖 Commercially I deal with **creating RPA scripts for ERP systems**. </h4>
 
-- 📊 Analysis of large amounts of data and visualizing them in the form of **dashboards and reports**.
+<h4 align="center">📊 Analysis of large amounts of data and visualizing them in the form of **dashboards and reports**. </h4>
 
 
 
