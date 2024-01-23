@@ -8,9 +8,9 @@
 
 
 
-- 🤖 Commercially I deal with **creating RPA scripts for ERP systems**.
+<h4 align="center"> 🤖 Commercially I deal with **creating RPA scripts for ERP systems**. </h3>
 
-- 📊 Analysis of large amounts of data and visualizing them in the form of **dashboards and reports**.
+<h4 align="center"> 📊 Analysis of large amounts of data and visualizing them in the form of **dashboards and reports**. </h3>
 
 
 
