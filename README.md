@@ -1,18 +1,14 @@
+<h1 align="center">Hi there 👋, I'm Jakub Kiełb</h1>
+<h3 align="center">Mathematics & Computer Science Graduate | ERP Systems Specialist | Automation & Data Enthusiast</h3>
 
+---
 
+<h4 align="center">💻 Designing and implementing RPA scripts for ERP systems</h4>
+<h4 align="center">📊 Analyzing large datasets and transforming them into clear, actionable dashboards</h4>
+<h4 align="center">⚡ Combining math, programming, and business systems to optimize processes</h4>
 
-<h1 align="center">Hi 👋, I'm Jakub Kiełb</h1>
-<h3 align="center">I'm a mathematics graduate with a specialization in mathematical modeling. 👨‍💻</h3>
+---
 
-
-
-
-
-<h5 align="center"> 🤖 Commercially I deal with creating RPA scripts for ERP systems. </h5>
-
-<h5 align="center"> 📊 Analysis of large amounts of data and visualizing them in the form of dashboards and reports. </h5>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8&theme=radical)](https://github.com/Thizz00/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
+</p>
