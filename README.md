@@ -9,7 +9,3 @@
 <h4 align="center">⚡ Combining math, programming, and business systems for smarter automation</h4>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz00&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
-</p>
